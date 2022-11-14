@@ -1,0 +1,84 @@
+autorun starting game Sun 13 Nov 2022 08:11:21 PM EST
+running bin/circle -q 4000
+Nov 13 20:11:21 :: CircleMUD, version 3.1
+Nov 13 20:11:21 :: Using lib as data directory.
+Nov 13 20:11:21 :: Running game on port 4000.
+Nov 13 20:11:21 :: Finding player limit.
+Nov 13 20:11:21 ::    Setting player limit to 300 using rlimit.
+Nov 13 20:11:21 :: Opening mother connection.
+Nov 13 20:11:21 :: Binding to all IP interfaces on this host.
+Nov 13 20:11:21 :: Boot db -- BEGIN.
+Nov 13 20:11:21 :: Resetting the game time:
+Nov 13 20:11:21 ::    Current Gametime: 4H 19D 9M 950Y.
+Nov 13 20:11:21 :: Reading news, credits, help, bground, info & motds.
+Nov 13 20:11:21 :: Loading spell definitions.
+Nov 13 20:11:21 :: Loading zone table.
+Nov 13 20:11:21 ::    30 zones, 1200 bytes.
+Nov 13 20:11:21 :: Loading rooms.
+Nov 13 20:11:21 ::    1880 rooms, 210560 bytes.
+Nov 13 20:11:21 :: Renumbering rooms.
+Nov 13 20:11:21 :: Checking start rooms.
+Nov 13 20:11:21 :: Loading mobs and generating index.
+Nov 13 20:11:21 ::    569 mobs, 9104 bytes in index, 268568 bytes in prototypes.
+Nov 13 20:11:21 :: Loading objs and generating index.
+Nov 13 20:11:21 ::    679 objs, 10864 bytes in index, 119504 bytes in prototypes.
+Nov 13 20:11:21 :: Renumbering zone table.
+Nov 13 20:11:21 :: Loading shops.
+Nov 13 20:11:21 :: Loading help entries.
+Nov 13 20:11:21 ::    298 entries, 7152 bytes.
+Nov 13 20:11:21 :: Generating player index.
+Nov 13 20:11:21 :: Loading fight messages.
+Nov 13 20:11:21 :: Loading social messages.
+Nov 13 20:11:21 :: Assigning function pointers:
+Nov 13 20:11:21 ::    Mobiles.
+Nov 13 20:11:21 ::    Shopkeepers.
+Nov 13 20:11:21 ::    Objects.
+Nov 13 20:11:21 ::    Rooms.
+Nov 13 20:11:21 :: Assigning spell and skill levels.
+Nov 13 20:11:21 :: Sorting command list and spells.
+Nov 13 20:11:21 :: Booting mail system.
+Nov 13 20:11:21 ::    0 bytes read.
+Nov 13 20:11:21 ::    Mail file read -- 0 messages.
+Nov 13 20:11:21 :: Reading banned site and invalid-name list.
+Nov 13 20:11:21 ::    Ban file 'etc/badsites' doesn't exist.
+Nov 13 20:11:21 :: Booting houses.
+Nov 13 20:11:21 :: Resetting #0: Limbo - Internal (rooms 0-99).
+Nov 13 20:11:21 :: Resetting #9: River Island Of Minos (rooms 900-999).
+Nov 13 20:11:21 :: Resetting #12: God Simplex (rooms 1200-1299).
+Nov 13 20:11:21 :: Resetting #15: The Straight Path (rooms 1500-1599).
+Nov 13 20:11:21 :: Resetting #25: The High Tower Of Magic (rooms 2500-2699).
+Nov 13 20:11:21 :: Resetting #30: Northern Midgaard Main City (rooms 3000-3099).
+Nov 13 20:11:21 :: Resetting #31: Southern part of Midgaard (rooms 3100-3299).
+Nov 13 20:11:21 :: Resetting #33: The Three Of Swords (rooms 3300-3399).
+Nov 13 20:11:21 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Nov 13 20:11:21 :: Resetting #36: The Chessboard of Midgaard (rooms 3600-3699).
+Nov 13 20:11:21 :: Resetting #40: Mines of Moria (rooms 4000-4198).
+Nov 13 20:11:21 :: Resetting #50: The Great Eastern Desert (rooms 5000-5099).
+Nov 13 20:11:21 :: Resetting #51: Drow City (rooms 5100-5199).
+Nov 13 20:11:21 :: Resetting #52: The City Of Thalos (rooms 5200-5299).
+Nov 13 20:11:21 :: Resetting #53: The Great Pyramid (rooms 5300-5399).
+Nov 13 20:11:21 :: Resetting #54: New Thalos (rooms 5400-5699).
+Nov 13 20:11:21 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Nov 13 20:11:21 :: Resetting #61: Haon-Dor, Dark Forest (rooms 6100-6199).
+Nov 13 20:11:21 :: Resetting #62: The Orc Enclave (rooms 6200-6299).
+Nov 13 20:11:21 :: Resetting #63: Arachnos (rooms 6300-6399).
+Nov 13 20:11:21 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Nov 13 20:11:21 :: Resetting #65: The Dwarven Kingdom (rooms 6500-6599).
+Nov 13 20:11:21 :: Resetting #70: The Sewer, First Level (rooms 7000-7099).
+Nov 13 20:11:21 :: Resetting #71: The Second Sewer (rooms 7100-7199).
+Nov 13 20:11:21 :: Resetting #72: The Sewer Maze (rooms 7200-7299).
+Nov 13 20:11:21 :: Resetting #73: The Tunnels In The Sewer (rooms 7300-7399).
+Nov 13 20:11:21 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Nov 13 20:11:21 :: Resetting #120: Rome (rooms 12000-12099).
+Nov 13 20:11:21 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Nov 13 20:11:21 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Nov 13 20:11:21 :: Boot db -- DONE.
+Nov 13 20:11:21 :: Signal trapping.
+Nov 13 20:11:21 :: Entering game loop.
+Nov 13 20:11:21 :: No connections.  Going to sleep.
+Nov 13 20:13:10 :: New connection.  Waking up.
+Nov 13 20:13:31 :: Fostyr [localhost] new player.
+Nov 13 20:13:37 :: Fostyr entering game with no equipment.
+Nov 13 20:15:25 :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+Quick boot mode -- rent check supressed.
+Using file descriptor for logging.
